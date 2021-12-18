@@ -1,0 +1,24 @@
+19 = data scraping
+25 = data scraping
+26 = data scraping
+14 = 12 - website design, 2 - coding/django
+22 = 3 - website designs, 19 - coding/django
+23 = 16 - website designs, 7 - coding/django
+26 = website design
+17 = 5 - website design, 12 - coding/django
+27 = website development
+31 = website development
+35 = website development
+28 = 24 - website development, 4 - documentation
+41 = 6 - doc, 31 - website development
+36 = 6 - python setup, 26 - documentation
+25 = 21 - documentation, 4 - python setup
+
+total = 451
+Meetings + conversations/duscussions + travel time(cut in half) = 70 hours(rough estimate not accurate)
+data scraping = 70
+website design = 62
+Django and Python learning = 40 
+website development = 148
+documentation = 51
+Python setup = 10 
